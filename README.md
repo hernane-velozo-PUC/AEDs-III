@@ -1,2 +1,1 @@
-# AEDs-III
-Algoritmos e Estrtutura de Dados III
+# Algoritmos e Estruturas de Dados III - AEDs III
